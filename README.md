@@ -43,10 +43,7 @@
 
 **Gravity Express v1.0 | Windows 试玩版**
 
-《订单派送中》现已提供 Windows 游戏版本，可下载体验完整的星际配送与引力解谜玩法。
-
-**[点击下载 Windows 游戏（v1.0）](https://github.com/Janze-17/Gravity-Express/releases/download/v1.0.0/Gravity-Express-Windows-v1.0.zip)**
-
+[点击下载 Windows 游戏（v1.0）](https://github.com/Janze-17/Gravity-Express-Showcase/releases/download/v1.0.0/Gravity-Express-Windows-v1.0.zip)
 ### 运行说明
 
 1. 下载 `Gravity-Express-Windows-v1.0.zip`。
